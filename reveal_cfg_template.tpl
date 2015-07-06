@@ -195,7 +195,7 @@ Reveal.initialize({
     theme: 'plain', // available themes are in /css/theme
     
     //size
-    width: '80%',
+    width: '90%',
 
     parallaxBackgroundImage: 'images/background_1.jpg',
     parallaxBackgroundSize: '3800px 1200px'
