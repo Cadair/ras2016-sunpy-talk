@@ -1,5 +1,4 @@
-SunPy Keynote for Python in Astronomy
--------------------------------------
+SunPy Talk for NAM 2015
+-----------------------
 
-This repo contains my PiA talk on SunPy, consider it released under
-CC-BY 4.0.
+Consider it released under CC-BY 4.0.
