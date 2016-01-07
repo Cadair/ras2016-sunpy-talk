@@ -1,6 +1,10 @@
 body {
-    font-size: 160%;
+    font-size: 100%;
     font-family: Lato, Ariel, sans-serif !important;
+}
+
+div.text_cell {
+    font-size: 140%;
 }
 
 div.slides {
@@ -58,4 +62,14 @@ ul.logos {
 ul.logos li {
     list-style: none;
     height:150px;
+}
+
+blockquote.quote {
+    margin: 1em auto;
+    font-weight: bold;
+    text-align: center;
+}
+
+div.highlight {
+    width: 70%;
 }
